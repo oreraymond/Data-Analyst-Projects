@@ -1,6 +1,3 @@
-# Data-Analyst-Projects
-# This Repository contains my data analysis project where SQL is used to answer certain Business Questions from a company's 'employees' database  
-
 # Have A broad view of the salries table
 SELECT 
     *
